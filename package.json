@@ -1,0 +1,22 @@
+{
+  "name": "first-rep",
+  "version": "1.0.0",
+  "description": "测试所用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/123ScarecrowMan/first-rep.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/123ScarecrowMan/first-rep/issues"
+  },
+  "homepage": "https://github.com/123ScarecrowMan/first-rep#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
