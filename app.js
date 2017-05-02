@@ -7,15 +7,6 @@ app.get('/',(req,res)=>{
 	res.send('hello world!');
 });
 
-app.get('/hello',(req,res)={
-	res.send('hello express!!!');
-});
-
-
-
-app.get('/develop',(req,res)={
-	res.send('当前位于develop分支');
-});
 
 
 
